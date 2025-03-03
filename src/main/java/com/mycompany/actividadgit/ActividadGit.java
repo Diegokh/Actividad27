@@ -13,6 +13,7 @@ public class ActividadGit {
     public static void main(String[] args) {
         System.out.println("ACTIVIDAD 27--Uso de GIT en Netbeans!");
         System.out.println("Realzio el primer commit");
+        System.out.println("Creo una nueva rama");
         
     }
 }
